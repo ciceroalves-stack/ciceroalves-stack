@@ -27,7 +27,7 @@ O que me move: **pegar decisões que hoje dependem de planilha, intuição e hor
 
 ## 🛠️ Ferramentas
 
-`Python` · `Streamlit` · `Pandas` · `APIs de LLM (OpenAI / Anthropic)` · `Excel avançado` · `Análise de crédito PJ`
+Excel / Google Sheets · Power BI · Google Forms · Notion · WhatsApp Business · Análise de crédito PJ · Gestão de carteira · Indicadores ESG
 
 ## 📫 Contato
 
