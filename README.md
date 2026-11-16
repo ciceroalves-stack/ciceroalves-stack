@@ -11,11 +11,11 @@ O que me move: **pegar decisões que hoje dependem de planilha, intuição e hor
 
 ## 🚀 Projetos
 
-| Projeto | Problema de negócio | Destaque |
-|---|---|---|
-| [🌱 Crédito Verde ESG](https://github.com/ciceroalves-stack/credito-verde-esg) | Bancos não têm um jeito padronizado de premiar empresas sustentáveis na hora de conceder crédito | Consulta CNPJ na Receita, lê o balanço em PDF e sugere taxa bonificada |
-| [🏪 Analisador de Pequenos Negócios](https://github.com/ciceroalves-stack/analisador-pequenos-negocios) | Pequenos empreendedores (como restaurantes parceiros de delivery) não sabem se o negócio é saudável | Lê o relatório de vendas e entrega diagnóstico e plano de ação |
-| [📈 Performance Comercial](https://github.com/ciceroalves-stack/performance-comercial-ia) | Gerentes descobrem tarde demais quem não vai bater a meta | Lê a planilha da equipe, projeta o mês e monta a pauta de coaching |
+| Projeto | Problema de negócio | Destaque | App ao vivo |
+|---|---|---|---|
+| [🌱 Crédito Verde ESG](https://github.com/ciceroalves-stack/credito-verde-esg) | [▶ Abrir](https://credito-verde-esg-lmjcrckkamk7gvujga8bcz.streamlit.app/) | Bancos não têm um jeito padronizado de premiar empresas sustentáveis na hora de conceder crédito | Consulta CNPJ na Receita, lê o balanço em PDF e sugere taxa bonificada |
+| [🏪 Analisador de Pequenos Negócios](https://github.com/ciceroalves-stack/analisador-pequenos-negocios) | [▶ Abrir](https://hvfsyjwwqtvpsq9jqk5puu.streamlit.app/) | Pequenos empreendedores (como restaurantes parceiros de delivery) não sabem se o negócio é saudável | Lê o relatório de vendas e entrega diagnóstico e plano de ação |
+| [📈 Performance Comercial](https://github.com/ciceroalves-stack/performance-comercial-ia) | [▶ Abrir](https://performance-comercial-ia-roaajr6jnacedessappx9hs.streamlit.app/) | Gerentes descobrem tarde demais quem não vai bater a meta | Lê a planilha da equipe, projeta o mês e monta a pauta de coaching |
 
 ---
 
