@@ -13,21 +13,21 @@ O que me move: **pegar decisões que hoje dependem de planilha, intuição e hor
 
 | Projeto | Problema de negócio | Destaque |
 |---|---|---|
-| [🌱 Crédito Verde ESG](https://github.com/ciceroalves-stack/credito-verde-esg) | Bancos não têm um jeito padronizado de premiar empresas sustentáveis na hora de conceder crédito | Score financeiro + ESG com sugestão de taxa bonificada |
-| [🏪 Analisador de Pequenos Negócios](https://github.com/ciceroalves-stack/analisador-pequenos-negocios) | Pequenos empreendedores (como restaurantes parceiros de delivery) não sabem se o negócio é saudável | Diagnóstico financeiro em linguagem simples, com plano de ação |
-| [📈 Performance Comercial com IA](https://github.com/ciceroalves-stack/performance-comercial-ia) | Gerentes descobrem tarde demais quem não vai bater a meta | Previsão de fechamento do mês e roteiro de coaching por vendedor |
+| [🌱 Crédito Verde ESG](https://github.com/ciceroalves-stack/credito-verde-esg) | Bancos não têm um jeito padronizado de premiar empresas sustentáveis na hora de conceder crédito | Consulta CNPJ na Receita, lê o balanço em PDF e sugere taxa bonificada |
+| [🏪 Analisador de Pequenos Negócios](https://github.com/ciceroalves-stack/analisador-pequenos-negocios) | Pequenos empreendedores (como restaurantes parceiros de delivery) não sabem se o negócio é saudável | Lê o relatório de vendas e entrega diagnóstico e plano de ação |
+| [📈 Performance Comercial](https://github.com/ciceroalves-stack/performance-comercial) | Gerentes descobrem tarde demais quem não vai bater a meta | Lê a planilha da equipe, projeta o mês e monta a pauta de coaching |
 
 ---
 
-## 🧠 Como eu trabalho com IA
+## 🧠 Como eu construo soluções
 
 1. **Começo pelo problema**, não pela tecnologia: qual decisão precisa ficar melhor?
-2. **Regras de negócio claras primeiro** — a IA explica e recomenda, mas o cálculo é auditável.
-3. **Entrega que alguém usa de verdade**: interface simples, linguagem do usuário final.
+2. **Regras de negócio claras e auditáveis**: todo número do resultado tem uma explicação.
+3. **Entrega que alguém usa de verdade**: trabalha com os dados que a pessoa já tem (CNPJ, balanço, relatório de vendas, planilha) e fala a língua de quem usa.
 
 ## 🛠️ Ferramentas
 
-Excel / Google Sheets · Power BI · Google Forms · Notion · WhatsApp Business · Análise de crédito PJ · Gestão de carteira · Indicadores ESG
+`ChatGPT` · `Claude` · `Gemini` · `Excel / Google Sheets` · `Power BI` · `Google Forms` · `Notion` · `WhatsApp Business` · `Análise de crédito PJ` · `Gestão de carteira` · `Indicadores ESG`
 
 ## 📫 Contato
 
